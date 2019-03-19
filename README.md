@@ -1,6 +1,6 @@
 # Adv-Web-Javascript-Page
 
 ## About
-Utilizing SVG, students will create a complete web page that either includes or showcases a game, app, or other javascript-driven activity.
+Part of a course scheduling app. Created a Rest API for my front to consume. Database is not available on this repo so cloning and installing the program will not work properly
 
-### link: 
+### link: no link yet. Need to host rest api server somehwere 
